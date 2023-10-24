@@ -1,0 +1,24 @@
+{
+    "nevek": [
+        {
+            "nev": "Ricsi",
+            "szulEv": 2000
+        },
+        {
+            "nev": "Doma",
+            "szulEv": 2000
+        },
+        {
+            "nev": "Hunor",
+            "szulEv": 2000
+        },
+        {
+            "nev": "Bence",
+            "szulEv": 2000
+        },
+        {
+            "nev": "Bónó",
+            "szulEv": 2000
+        }
+    ]
+}
